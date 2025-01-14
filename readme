@@ -1,0 +1,4 @@
+Pour lancer le serveur web : docker-compose up -d
+Pour accéder:
+- au site web : http://localhost
+- à phpmyadmin : http://localhost:8080
