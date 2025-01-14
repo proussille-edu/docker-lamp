@@ -9,6 +9,6 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <h1>Hello world - Lamp server 1</h1>
+    <h1><?php echo 'Hello world - Lamp server 1' ?></h1>
 </body>
 </html>
